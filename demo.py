@@ -53,13 +53,13 @@ else:
 
 # first activity personal information about me
 
-name = "Jericho S. Castro"
+name = "Bro F. Liefe"
 age = 28
-birthday = "07/29/1997"
-email = "jerichocstro@gmail.com"
+birthday = "07/22/1992"
+email = "brofliefe@gmail.com"
 is_graduate = False
 is_student = True
-school = "Bulacan State University"
+school = "Batangas State University"
 
 print(f"My name is {name} I am {age} years old, my birtyday is on {birthday}, my email is {email}")
 if is_graduate:

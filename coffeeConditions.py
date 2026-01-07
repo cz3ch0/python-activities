@@ -16,4 +16,3 @@ if not milk:
     print("You do not have milk.")
 
 # Output:
-# You have either coffee or milk.

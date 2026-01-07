@@ -20,3 +20,4 @@ print(friends)
 
 ojt = {'janiel', 'abby', 'justin', 'jericho'}
 print (len(ojt))
+print (type(ojt))

@@ -16,3 +16,7 @@ friends = 5
 friends = friends ** 2
 friends **= 2
 print(friends)
+
+
+ojt = {'janiel', 'abby', 'justin', 'jericho'}
+print (len(ojt))
